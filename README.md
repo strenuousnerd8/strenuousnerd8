@@ -26,7 +26,7 @@
     <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/javascript.png"/> </a>
     <a href="https://www.wordpress.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/wordpress.png"/> </a>
     <a href="https://www.photoshop.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/adobe-photoshop.png"/> </a>
-    <a href="https://www.reactjs.org" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/react-native.png"/> </a>
+    <a href="https://www.reactjs.org" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/react.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/java.png"/> </a>
 </p>
 

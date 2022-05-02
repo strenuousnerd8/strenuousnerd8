@@ -19,7 +19,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
+<p align="center">
     <a href="https://www.python.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/python.png"/> </a>
     <a href="https://www.ionicframework.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/ionic.png"/> </a>
     <a href="https://www.github.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/github.png"/> </a>

@@ -2,6 +2,7 @@
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Creativity is intelligence having fun.</h3>
+<h5> Web, Software, Graphic Design, Illustration, Freelancing</h5>
 
 
 ## 🙋‍♂️ About Me

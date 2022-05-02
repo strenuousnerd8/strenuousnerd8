@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a freelance software developer**
+- 🔭 I’m currently working as a **Freelance software developer**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 

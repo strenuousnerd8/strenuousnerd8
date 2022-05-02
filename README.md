@@ -2,16 +2,14 @@
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Creativity is intelligence having fun.</h3>
-<h5> Web, Software, Graphic Design, Illustration, Freelancing</h5>
+<h5 align="center"> Web, Software, Problem Solving, Graphic Design, Illustration, Freelancing</h5>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently aiming to be **Competetive Coder**
+- 🔭 I’m currently aiming to be **Competitive Coder**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Visit my website **[My Presentation](https://illusiveadroits.netlify.app/)**
 

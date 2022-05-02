@@ -23,7 +23,9 @@
     <a href="https://www.python.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/python.png"/> </a>
     <a href="https://www.ionicframework.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/ionic.png"/> </a>
     <a href="https://www.github.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/github.png"/> </a>
-    <a href="https://www.python.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/javascript.png"/> </a>
+    <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/javascript.png"/> </a>
+    <a href="https://www.wordpress.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/wordpress.png"/> </a>
+    <a href="https://www.photoshop.com" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/60/ff83a8/photoshop.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->

@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="header.svg" height="175px"/></a>
 
-<h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></h1>
 <h3 align="center">Creativity is intelligence having fun.</h3>
 <h5 align="center"> Web, Software, Problem Solving, Graphic Design, Illustration, Freelancing</h5>
 

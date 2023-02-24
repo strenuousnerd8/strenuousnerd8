@@ -7,13 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently aiming to be **Competitive Coder**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m a **Full Stack Software Developer**
 
 - 👨‍💻 Visit my website **[My Presentation](https://illusiveadroits.netlify.app/)**
 
-- 📫 How to reach me **zakkiwat@gmail.com**
+- 📫 Reach out to me on **zakkiwat@gmail.com**
 
 - ⚡ Fun fact **I like esports and mastering multiple things at once.**
 
